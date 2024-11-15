@@ -225,7 +225,7 @@ A good time for suggestions on where to learn R and Python. You've probably alre
 
 <!-- Got any organisation information on where to learn R or Python? Does your institute run carpentries training or data science help? Include it below.
 
-It will appear at https://[YourRepository]/ReproducibleResearch/instructor/step5Testing.html#tracking-your-analysis-history
+Not so sure this works but ok: It will appear at https://[YourRepository]/ReproducibleResearch/instructor/step5Testing.html#tracking-your-analysis-history
 
 -->
 
